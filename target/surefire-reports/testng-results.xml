@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[<br>FrameworksPage screenshot: <br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <img src=screenshots/FrameworksPage.png style=max-width:500px;>  <br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>AppManagementPage screenshot: <br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <img src=screenshots/AppManagementPage.png style=max-width:500px;>  <br>]]>
+    </line>
+  </reporter-output>
+  <suite name="DevMateTest" duration-ms="21963" started-at="2014-10-05T16:54:30Z" finished-at="2014-10-05T16:54:52Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="21963" started-at="2014-10-05T16:54:30Z" finished-at="2014-10-05T16:54:52Z">
+      <class name="DevMateTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:DevMateTest@68837a77]" name="beforeTest" is-config="true" duration-ms="8784" started-at="2014-10-05T19:54:30Z" finished-at="2014-10-05T19:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:DevMateTest@68837a77]" name="beforeMethod" is-config="true" duration-ms="2576" started-at="2014-10-05T19:54:39Z" finished-at="2014-10-05T19:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="scenario1()[pri:0, instance:DevMateTest@68837a77]" name="scenario1" duration-ms="2155" started-at="2014-10-05T19:54:42Z" finished-at="2014-10-05T19:54:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:DevMateTest@68837a77]" name="beforeMethod" is-config="true" duration-ms="46" started-at="2014-10-05T19:54:44Z" finished-at="2014-10-05T19:54:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="scenario2()[pri:0, instance:DevMateTest@68837a77]" name="scenario2" duration-ms="8373" started-at="2014-10-05T19:54:44Z" finished-at="2014-10-05T19:54:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br>FrameworksPage screenshot: <br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src=screenshots/FrameworksPage.png style=max-width:500px;>  <br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>AppManagementPage screenshot: <br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src=screenshots/AppManagementPage.png style=max-width:500px;>  <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenario2 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:DevMateTest@68837a77]" name="afterTest" is-config="true" duration-ms="16" started-at="2014-10-05T19:54:52Z" finished-at="2014-10-05T19:54:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- DevMateTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- DevMateTest -->
+</testng-results>
